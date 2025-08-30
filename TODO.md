@@ -1,0 +1,22 @@
+# TODO List for Paper Novelty Ranking Project
+
+- [x] Parse arxiv_data.xml into papers.csv
+- [x] Create sample citations.csv (citing_paper_id, cited_paper_id)
+- [x] Create sample metrics.csv (paper_id, citation_count, h_index)
+- [x] Create data_loader.py: Load CSVs, clean text data
+- [x] Create similarity_computer.py: Compute TF-IDF similarity between papers
+- [x] Create scorer.py: Calculate novelty_score = alpha*(1/(1+citations)) + beta*(max similarity) + gamma*(recency)
+- [x] Create ranker.py: Sort papers by novelty_score
+- [x] Create visualizer.py: Generate scatter plots and distributions
+- [x] Create main.py: Orchestrate the entire pipeline
+- [x] Create requirements.txt: List dependencies
+- [x] Install dependencies from requirements.txt
+- [x] Run main.py to execute the pipeline
+- [x] Review visualizations and rankings
+- [x] Add author-level insights: top authors by novelty, average novelty vs citations, co-author network
+- [x] Add paper-level ranking by combined score (Novelty × Citation Count)
+- [x] Add trends over time: average novelty per year, old vs new comparison
+- [x] Add interactive exploration with Streamlit
+- [x] Update requirements.txt with new dependencies
+- [x] Install new dependencies
+- [x] Run updated pipeline

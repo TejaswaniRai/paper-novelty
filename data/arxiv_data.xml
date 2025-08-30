@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link href="http://arxiv.org/api/query?search_query%3Dall%26id_list%3D%26start%3D0%26max_results%3D10" rel="self" type="application/atom+xml"/>
+  <title type="html">ArXiv Query: search_query=all&amp;id_list=&amp;start=0&amp;max_results=10</title>
+  <id>http://arxiv.org/api/EzVVceYFgffpe1pN1SaekBDSOE0</id>
+  <updated>2025-08-30T00:00:00-04:00</updated>
+  <opensearch:totalResults xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">402245</opensearch:totalResults>
+  <opensearch:startIndex xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">0</opensearch:startIndex>
+  <opensearch:itemsPerPage xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">10</opensearch:itemsPerPage>
+  <entry>
+    <id>http://arxiv.org/abs/2401.04381v1</id>
+    <updated>2024-01-09T07:01:04Z</updated>
+    <published>2024-01-09T07:01:04Z</published>
+    <title>Spaces where all bijections are morphisms</title>
+    <summary>  Here we classify all topological spaces where all bijections to itself are
+homeomorphisms. As a consequence, we also classify all topological spaces where
+all maps to itself are continuous. Analogously, we classify all measurable
+spaces where all bijections to itself are measurable with measurable inverse.
+As a consequence, we also classify all measurable spaces where all maps to
+itself are measurable.
+</summary>
+    <author>
+      <name>Lucas H. R. de Souza</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">7 pages</arxiv:comment>
+    <link href="http://arxiv.org/abs/2401.04381v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/2401.04381v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.GN" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GN" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="Primary: 54F65, 28A05, Secondary: 54A10, 54A25, 54C05" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1911.11405v1</id>
+    <updated>2019-11-26T08:49:54Z</updated>
+    <published>2019-11-26T08:49:54Z</published>
+    <title>A Note on Computational Complexity of Kill-all Go</title>
+    <summary>  Kill-all Go is a variant of Go in which Black tries to capture all white
+stones, while White tries to survive. We consider computational complexity of
+Kill-all Go with two rulesets, Chinese rules and Japanese rules. We prove that:
+(i) Kill-all Go with Chinese rules is PSPACE-hard, and (ii) Kill-all Go with
+Japanese rules is EXPTIME-complete.
+</summary>
+    <author>
+      <name>Zhujun Zhang</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">15 pages, 11 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1911.11405v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1911.11405v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.CC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CC" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2501.13404v1</id>
+    <updated>2025-01-23T06:06:47Z</updated>
+    <published>2025-01-23T06:06:47Z</published>
+    <title>Classification of Homogeneous Local Representations of the Singular
+  Braid Monoid</title>
+    <summary>  For a natural number $n$, denote by $B_n$ the braid group on $n$ strings and
+by $SM_n$ the singular braid monoid on $n$ strings. $SM_n$ is one of the most
+important extensions of $B_n$. In [13], Y. Mikhalchishina classified all
+homogeneous $2$-local representations of $B_n$ for all $n \geq 3$. In this
+article, we extend the result of Mikhalchishina in two ways. First, we classify
+all homogeneous $3$-local representations of $B_n$ for all $n \geq 4$. Second,
+we classify all homogeneous $2$-local representations of $SM_n$ for all $n\geq
+2$ and all homogeneous $3$-local representations of $SM_n$ for all $n\geq 4$.
+</summary>
+    <author>
+      <name>Taher I. Mayassi</name>
+    </author>
+    <author>
+      <name>Mohamad N. Nasser</name>
+    </author>
+    <link href="http://arxiv.org/abs/2501.13404v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/2501.13404v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.RT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.RT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="20F36" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1210.7708v1</id>
+    <updated>2012-10-29T16:12:41Z</updated>
+    <published>2012-10-29T16:12:41Z</published>
+    <title>Landau--Kolmogorov inequality revisited</title>
+    <summary>  The Landau-Kolmogorov problem consists of finding the upper bound $M_k$ for
+the norm of intermediate derivative $|f^{(k)}|$, when the bounds $|f| \le M_0$
+and $|f^{(n)}| \le M_n$, for the norms of the function and of its higher
+derivative, are given.
+  Here, we consider the case of a finite interval, and when all the norms are
+the max-norms. Our interest to that particular case is motivated by the fact
+that there are good chances to add this case to a short list of
+Landau--Kolmogorov inequalities where a complete solution exists, i.e., a
+solution that covers all values of $n,k\in\N$ (and, for a finite interval, all
+values of $\sigma = M_n/M_0$).
+  The main guideline here is Karlin's conjecture that says that, for all
+$n,k\in\N$ and all $\sigma&gt;0$, the maximum of $|f^{(k)}|$ is attained by a
+certain Chebyshev or Zolotarev spline. So far, it has been proved only for
+small $n \ge 4$ with all $\sigma$, and for all $n$ with particular $\sigma =
+\sigma_n$. Here, we prove Karlin's conjecture in several further subcases:
+  1) all $n,k\in\N$ and all $0 &lt; \sigma \le \sigma_n$
+  2) all $n \in \N$, all $\sigma &gt; 0$, with $k=1,2$
+  3) all $\sigma &gt; 0$, with $n &lt; 10$ and $0 &lt; k &lt; n$.
+</summary>
+    <author>
+      <name>Alexei Shadrin</name>
+    </author>
+    <link href="http://arxiv.org/abs/1210.7708v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1210.7708v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.NA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.NA" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1602.00450v1</id>
+    <updated>2016-02-01T09:53:30Z</updated>
+    <published>2016-02-01T09:53:30Z</published>
+    <title>All-in-all-out magnetic domain wall conduction in pyrochlore iridate
+  heterointerface</title>
+    <summary>  Pyrochlore oxides possessing "all-in-all-out" spin ordering have attracted
+burgeoning interest as a rich ground of emergent states. This ordering has two
+distinct types of magnetic domains (all-in-all-out or all-out-all-in) with
+broken time-reversal symmetry, and a non-trivial metallic surface state has
+been theoretically demonstrated to appear at their domain wall. Here, we report
+on observation of this metallic conduction at the single
+all-in-all-out/all-out-all-in magnetic domain wall formed at the
+heterointerface of two pyrochlore iridates. By utilizing different
+magnetoresponses of them with different lanthanide ions, the domain wall is
+controllably inserted at the heterointerface, the surface state being detected
+as anomalous conduction enhancement with a ferroic hysteresis. Our
+establishment paves the way for further investigation and manipulation of this
+new type of surface transport.
+</summary>
+    <author>
+      <name>T. C. Fujita</name>
+    </author>
+    <author>
+      <name>M. Uchida</name>
+    </author>
+    <author>
+      <name>Y. Kozuka</name>
+    </author>
+    <author>
+      <name>W. Sano</name>
+    </author>
+    <author>
+      <name>A. Tsukazaki</name>
+    </author>
+    <author>
+      <name>T. Arima</name>
+    </author>
+    <author>
+      <name>M. Kawasaki</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1103/PhysRevB.93.064419</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.1103/PhysRevB.93.064419" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">23 pages, 7 figures</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Phys. Rev. B 93, 064419 (2016)</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/1602.00450v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1602.00450v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1612.01842v2</id>
+    <updated>2016-12-07T06:10:53Z</updated>
+    <published>2016-12-06T15:01:47Z</published>
+    <title>An Improved One-to-All Broadcasting in Higher Dimensional
+  Eisenstein-Jacobi Networks</title>
+    <summary>  Recently, a higher dimensional Eisenstein-Jacobi networks, has been proposed
+in [22], which is shown that they have better average distance with more number
+of nodes than a single dimensional EJ networks. Some communication algorithms
+such as one-to-all and all-to-all communications are well known and used in
+interconnection networks. In one-to-all communication, a source node sends a
+message to every other node in the network. Whereas, in all-to-all
+communication, every node is considered as a source node and sends its message
+to every other node in the network. In this paper, an improved one-to-all
+communication algorithm in higher dimensional EJ networks is presented. The
+paper shows that the proposed algorithm achieves a lower average number of
+steps to receiving the broadcasted message. In addition, since the links are
+assumed to be half-duplex, the all-to-all broadcasting algorithm is divided
+into three phases. The simulation results are discussed and showed that the
+improved one-to-all algorithm achieves better traffic performance than the
+well-known one-to-all algorithm and has 2.7% less total number of senders
+</summary>
+    <author>
+      <name>Zaid Hussain</name>
+    </author>
+    <link href="http://arxiv.org/abs/1612.01842v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1612.01842v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.DC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.DC" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2309.13541v2</id>
+    <updated>2024-04-25T20:40:57Z</updated>
+    <published>2023-09-24T03:56:35Z</published>
+    <title>Efficient All-to-All Collective Communication Schedules for
+  Direct-Connect Topologies</title>
+    <summary>  The all-to-all collective communications primitive is widely used in machine
+learning (ML) and high performance computing (HPC) workloads, and optimizing
+its performance is of interest to both ML and HPC communities. All-to-all is a
+particularly challenging workload that can severely strain the underlying
+interconnect bandwidth at scale. This paper takes a holistic approach to
+optimize the performance of all-to-all collective communications on
+supercomputer-scale direct-connect interconnects. We address several
+algorithmic and practical challenges in developing efficient and
+bandwidth-optimal all-to-all schedules for any topology and lowering the
+schedules to various runtimes and interconnect technologies. We also propose a
+novel topology that delivers near-optimal all-to-all performance.
+</summary>
+    <author>
+      <name>Prithwish Basu</name>
+    </author>
+    <author>
+      <name>Liangyu Zhao</name>
+    </author>
+    <author>
+      <name>Jason Fantl</name>
+    </author>
+    <author>
+      <name>Siddharth Pal</name>
+    </author>
+    <author>
+      <name>Arvind Krishnamurthy</name>
+    </author>
+    <author>
+      <name>Joud Khoury</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">HPDC '24</arxiv:comment>
+    <link href="http://arxiv.org/abs/2309.13541v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/2309.13541v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.DC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.DC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.NI" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2401.11741v1</id>
+    <updated>2024-01-22T07:49:56Z</updated>
+    <published>2024-01-22T07:49:56Z</published>
+    <title>On partial endomorphisms of a star graph</title>
+    <summary>  In this paper we consider the monoids of all partial endomorphisms, of all
+partial weak endomorphisms, of all injective partial endomorphisms, of all
+partial strong endomorphisms and of all partial strong weak endomorphisms of a
+star graph with a finite number of vertices. Our main objective is to determine
+their ranks. We also describe their Green's relations, calculate their
+cardinalities and study their regularity.
+</summary>
+    <author>
+      <name>Ilinka Dimitrova</name>
+    </author>
+    <author>
+      <name>Vítor H. Fernandes</name>
+    </author>
+    <author>
+      <name>Jörg Koppitz</name>
+    </author>
+    <link href="http://arxiv.org/abs/2401.11741v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/2401.11741v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.RA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.RA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="20M20, 20M10, 05C12, 05C25" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2407.08211v1</id>
+    <updated>2024-07-11T06:29:39Z</updated>
+    <published>2024-07-11T06:29:39Z</published>
+    <title>Distance Antimagic Labeling of Zero-Divisor Graphs</title>
+    <summary>  In this paper, we prove that for all $m\geq 1$ and $n=1$, the graph $
+m\Gamma(\mathbb{Z}_9)+n\Gamma(\mathbb{Z}_4)$, for all $n\geq 1$, and $m=1$, the
+graph $m\overline{\Gamma(\mathbb{Z}_6)}+n\Gamma(\mathbb{Z}_9)$, for all
+$m\geq1$, $[m\Gamma(\mathbb{Z}_9)+\Gamma(\mathbb{Z}_4)]\times
+\Gamma(\mathbb{Z}_9)$, for all prime $m\geq3$,
+$\Gamma(\mathbb{Z}_6)\times\Gamma(\mathbb{Z}_{2m})$ and
+$\Gamma(\mathbb{Z}_6)\times\Gamma(\mathbb{Z}_{m^2})$ are all admit distance
+antimagic labeling.
+</summary>
+    <author>
+      <name>V. Sivakumaran</name>
+    </author>
+    <author>
+      <name>K. Sankar</name>
+    </author>
+    <author>
+      <name>S. Prabhu</name>
+    </author>
+    <link href="http://arxiv.org/abs/2407.08211v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/2407.08211v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="05C78" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2410.21084v1</id>
+    <updated>2024-10-28T14:48:36Z</updated>
+    <published>2024-10-28T14:48:36Z</published>
+    <title>Presentations for monoids of partial endomorphisms of a star graph</title>
+    <summary>  In this paper, we consider the monoids of all partial endomorphisms, of all
+partial weak endomorphisms, of all injective partial endomorphisms, of all
+partial strong endomorphisms and of all partial strong weak endomorphisms of a
+star graph with a finite number of vertices. Our main objective is to exhibit a
+presentation for each of them.
+</summary>
+    <author>
+      <name>Ilinka Dimitrova</name>
+    </author>
+    <author>
+      <name>Vítor H. Fernandes</name>
+    </author>
+    <author>
+      <name>Jörg Koppitz</name>
+    </author>
+    <link href="http://arxiv.org/abs/2410.21084v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/2410.21084v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.RA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.RA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="20M20, 20M05, 05C12, 05C25" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+</feed>
